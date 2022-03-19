@@ -5,7 +5,13 @@
     "./src/ejercicio-01/marvel.ts",
     "./src/ejercicio-01/pokemon.ts",
     "./src/ejercicio-01/pokedex.ts",
-    "./src/ejercicio-01/combate.ts"
+    "./src/ejercicio-01/combate.ts",
+    "./src/ejercicio-02/streamable.ts",
+    "./src/ejercicio-02/searchable.ts",
+    "./src/ejercicio-02/basic.ts",
+    "./src/ejercicio-02/series.ts",
+    "./src/ejercicio-02/films.ts",
+    "./src/ejercicio-02/documentaries.ts"
   ],
   "out": "./docs"
 }
