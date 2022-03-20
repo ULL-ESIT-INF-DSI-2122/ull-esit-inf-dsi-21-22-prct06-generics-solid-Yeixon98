@@ -34,10 +34,10 @@ export class CypherCesar implements Algoritms {
   }
 
   /**
-   * Descencriptar el mensaje
+   * Desencriptar el mensaje
    * @param msg Texto encriptado
-   * @param key Clave para descencriptar
-   * @returns Mensaje descencriptado
+   * @param key Clave para desencriptar
+   * @returns Mensaje desencriptado
    */
   decrypt(msg: string, key: string): string {
     let msgVector: string[] = msg.toUpperCase().split("")
