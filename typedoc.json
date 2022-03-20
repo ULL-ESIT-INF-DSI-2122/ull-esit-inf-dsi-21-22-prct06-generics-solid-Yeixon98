@@ -11,7 +11,9 @@
     "./src/ejercicio-02/basic.ts",
     "./src/ejercicio-02/series.ts",
     "./src/ejercicio-02/films.ts",
-    "./src/ejercicio-02/documentaries.ts"
+    "./src/ejercicio-02/documentaries.ts",
+    "./src/ejercicio-03/algoritms.ts",
+    "./src/ejercicio-03/cypher.ts"
   ],
   "out": "./docs"
 }
