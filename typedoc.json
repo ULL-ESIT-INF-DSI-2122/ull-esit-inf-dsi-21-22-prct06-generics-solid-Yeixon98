@@ -13,7 +13,11 @@
     "./src/ejercicio-02/films.ts",
     "./src/ejercicio-02/documentaries.ts",
     "./src/ejercicio-03/algoritms.ts",
-    "./src/ejercicio-03/cypher.ts"
+    "./src/ejercicio-03/cypher.ts",
+    "./src/ejercicio-mod/Arithmeticable.ts",
+    "./src/ejercicio-mod/ArithmeticableCollection.ts",
+    "./src/ejercicio-mod/Racional.ts",
+    "./src/ejercicio-mod/Complejo.ts"
   ],
   "out": "./docs"
 }
